@@ -1,4 +1,4 @@
-#Asynchronous Communication System
+# Asynchronous Communication System
 
 Objective – Development of an asynchronous communication system composed by
 several nodes (at least 1 master and 2 slaves). Those nodes have the same hardware
